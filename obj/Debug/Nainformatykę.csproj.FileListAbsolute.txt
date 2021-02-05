@@ -1,0 +1,10 @@
+C:\Users\XPC\source\repos\Nainformatykę\bin\Debug\Nainformatykę.exe.config
+C:\Users\XPC\source\repos\Nainformatykę\bin\Debug\Nainformatykę.exe
+C:\Users\XPC\source\repos\Nainformatykę\bin\Debug\Nainformatykę.pdb
+C:\Users\XPC\source\repos\Nainformatykę\obj\Debug\Nainformatykę.csprojAssemblyReference.cache
+C:\Users\XPC\source\repos\Nainformatykę\obj\Debug\Nainformatykę.Form1.resources
+C:\Users\XPC\source\repos\Nainformatykę\obj\Debug\Nainformatykę.Properties.Resources.resources
+C:\Users\XPC\source\repos\Nainformatykę\obj\Debug\Nainformatykę.csproj.GenerateResource.cache
+C:\Users\XPC\source\repos\Nainformatykę\obj\Debug\Nainformatykę.csproj.CoreCompileInputs.cache
+C:\Users\XPC\source\repos\Nainformatykę\obj\Debug\Nainformatykę.exe
+C:\Users\XPC\source\repos\Nainformatykę\obj\Debug\Nainformatykę.pdb
